@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Más cuadrados</title>
+  <link href="App1.css" rel="stylesheet">
+</head>
+<body>
+  <div class="squares">
+    <div class="square"></div>
+    <div class="square"></div>
+    <div class="square"></div>
+  </div>
+  
+  <button id="append">Agrega cuadro</button>
+  
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="App2.js"></script>
+</body>
+</html>
